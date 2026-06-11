@@ -7,7 +7,7 @@ Consumer Choice ABM is an Agent-Based Modeling simulation that studies how consu
 ## 🎯 Key Features
 
 - **Interactive Web Interface**: Real-time visualization of agents and social networks
-- **Live Parameter Tuning**: Adjust agent and product parameters on-the-fly
+- **Live Parameter Tuning**: Adjust agent and product parameters 
 - **Social Network Dynamics**: Agents connected through geometric proximity networks
 - **Dual Influence Mechanism**: Balance between personal experience and social norms
 - **Real-time Charts**: Track market shares and clustering coefficients over time
