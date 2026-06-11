@@ -13,16 +13,9 @@ Consumer Choice ABM is an Agent-Based Modeling simulation that studies how consu
 - **Real-time Charts**: Track market shares and clustering coefficients over time
 
 ## 🏗️ Model Architecture
-consumer_choice_abm/
-├── app.py # Flask web server
-├── config.py # Model parameters
-├── model/
-│ ├── consumer.py # Agent logic
-│ ├── network.py # Network construction
-│ └── abm_model.py # Core simulation engine
-├── templates/
-│ └── index.html # Web interface
-└── requirements.txt # Dependencies
+<img width="397" height="204" alt="Screenshot 2026-06-11 at 22 13 54" src="https://github.com/user-attachments/assets/0d791039-3531-453d-8a52-160b6dcaa8ff" />
+
+
 
 ## 🔧 Installation
 
