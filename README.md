@@ -25,6 +25,7 @@ Consumer Choice ABM is an Agent-Based Modeling simulation that studies how consu
 
 ### Step 1: Clone the Repository
 git clone https://github.com/yourusername/consumer-choice-abm.git
+
 cd consumer-choice-abm
 
 ### Step 2: Install Dependencies
@@ -35,6 +36,7 @@ python app.py
 
 ### Step 4:  Open Browser
 Navigate to: http://localhost:5001
+
 The interface will automatically open in your default browser.
 
 ### Step 5: How to Run a Scenario
